@@ -2,7 +2,7 @@ public static Integer findLargest(List<Integer> nums) {
     Integer max=0;
     for(Integer num : nums){
         if(num > max){
-            max =sum;
+            max =num;
         }
     }
     return max; 
