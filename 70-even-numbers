@@ -4,6 +4,6 @@ public List<Integer> evenNumbers(Integer n) {
         for (Integer i=2; i<= n * 2 ;i =+ 2){
             lstInt.add(i);
         }
-        return lstInt.sort;
+        return lstInt;
 
 }
