@@ -5,5 +5,4 @@ public List<Integer> evenNumbers(Integer n) {
             lstInt.add(i);
         }
         return lstInt;
-
 }
